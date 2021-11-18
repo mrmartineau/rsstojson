@@ -1,0 +1,16 @@
+{
+  "name": "rsstojson",
+  "version": "0.0.1",
+  "description": "RSS to JSON API",
+  "main": "index.js",
+  "repository": "git@github.com:mrmartineau/rsstojson.git",
+  "author": "Zander Martineau <hi@zander.wtf>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "rss-converter": "^1.1.6"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  }
+}
